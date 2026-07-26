@@ -25,7 +25,6 @@ The goal of this project is to simulate a corporate-grade end-to-end data analyt
 
 ### 1.Clone the repository
 
-https://github.com/bharathaigeneralist-droid/customer_behavior_analysis-
 
 ### 2. Open Customer_Shopping_Behavior_Analysis.ipynb notebook
 
