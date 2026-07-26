@@ -24,7 +24,7 @@ The goal of this project is to simulate a corporate-grade end-to-end data analyt
 ## 🛠️ How to Use This Project
 
 ### 1.Clone the repository
-
+https://github.com/anandaigeneralist-debug/customer_behavior_analysis
 
 ### 2. Open Customer_Shopping_Behavior_Analysis.ipynb notebook
 
