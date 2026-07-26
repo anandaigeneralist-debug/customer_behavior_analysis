@@ -19,7 +19,7 @@ The goal of this project is to simulate a corporate-grade end-to-end data analyt
 
 ✅ Report and Presentation: Write a clear project report summarizing your key findings and business recommendations. Prepare a presentation that visually communicates insights and actionable recommendations to stakeholders.
 
-<img width="1115" height="625" alt="Customer_Behavior_Dashboard" src="https://github.com/user-attachments/assets/893a34c0-e88c-43f9-836e-9a00fe0a2594" />
+<img width="1105" height="587" alt="Screenshot 2026-07-25 122037" src="https://github.com/user-attachments/assets/87a49c55-a4d2-47ac-95f5-6b08910ae55a" />
 
 ## 🛠️ How to Use This Project
 
