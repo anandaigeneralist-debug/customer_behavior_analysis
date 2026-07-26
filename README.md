@@ -63,5 +63,5 @@ This file contains:
    
 ## Dashboard
 
-<img width="1362" height="737" alt="Screenshot 2026-07-25 122705" src="https://github.com/user-attachments/assets/31eaf0cf-4f76-423a-8603-c9dfed72ccbc" />
+<img width="1115" height="625" alt="Customer_Behavior_Dashboard" src="https://github.com/user-attachments/assets/dc3f77ea-cc9b-4243-b020-a26253e04ddb" />
 
