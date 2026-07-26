@@ -20,7 +20,7 @@ This project is perfect for:
 
 🛠️ How to Use This Project
 1.Clone the repository
-
+https://github.com/anandaigeneralist-debug
 
 2. Open Customer_Shopping_Behavior_Analysis.ipynb notebook
 This file contains:
