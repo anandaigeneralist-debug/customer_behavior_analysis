@@ -1,11 +1,15 @@
+# Customer Behavior Data Analyst Portfolio Project
+
 This project represents a complete, industry standard, end-to-end data analytics workflow, designed to mirror the real responsibilities of professional analysts in modern business environments. The project encompasses all critical stages of data analysis, from data preparation and modeling to insight generation, visualization, and reporting.
 
 This project is perfect for:
 
-📊 Data Analyst aspirants who want to build a strong Portfolio Project for interviews and LinkedIn
-📚 Anyone learning Python, SQL, and Power BI
-💼 Professionals preparing for interviews in Data Analytics, Data Science or Product Analytics roles
-📌 Project Overview The goal of this project is to simulate a corporate-grade end-to-end data analytics workflow, demonstrating the ability to translate raw data into strategic business intelligence by:
+- 📊 Data Analyst aspirants who want to build a strong Portfolio Project for interviews and LinkedIn
+- 📚 Anyone learning Python, SQL, and Power BI
+- 💼 Professionals preparing for interviews in Data Analytics, Data Science or Product Analytics roles
+
+📌 Project Overview
+The goal of this project is to simulate a corporate-grade end-to-end data analytics workflow, demonstrating the ability to translate raw data into strategic business intelligence by:
 
 ✅ Data Preparation,Modeling & Exploratory Data Analysis (Python): Clean and transform the raw dataset for analysis.
 
@@ -15,42 +19,49 @@ This project is perfect for:
 
 ✅ Report and Presentation: Write a clear project report summarizing your key findings and business recommendations. Prepare a presentation that visually communicates insights and actionable recommendations to stakeholders.
 
-<img width="1105" height="587" alt="Screenshot 2026-07-25 122037" src="https://github.com/user-attachments/assets/8563a4ce-7427-48f0-8013-ee4fe0ad8e9e" />
+<img width="1115" height="625" alt="Customer_Behavior_Dashboard" src="https://github.com/user-attachments/assets/893a34c0-e88c-43f9-836e-9a00fe0a2594" />
 
+## 🛠️ How to Use This Project
 
-🛠️ How to Use This Project
-1.Clone the repository
-https://github.com/anandaigeneralist-debug
+### 1.Clone the repository
 
-2. Open Customer_Shopping_Behavior_Analysis.ipynb notebook
+https://github.com/bharathaigeneralist-droid/customer_behavior_analysis-
+
+### 2. Open Customer_Shopping_Behavior_Analysis.ipynb notebook
+
 This file contains:
 
-Data Import
+- Data Import
 
-Data exploration
+- Data exploration
 
-Data cleaning
+- Data cleaning
 
-Connection to SQL Database
+- Connection to SQL Database
 
-3.Load the data from Python notebook into MySQL/PostgreSQL/MS SQL Server
-Create a database in SQL
+### 3.Load the data from Python notebook into MySQL/PostgreSQL/MS SQL Server
 
-Run Python code to load data into SQL database
+- Create a database in SQL
 
-Open customer_behavior_sql_queries.sql
+- Run Python code to load data into SQL database
 
-Answer Business Questions using SQL Queries
+- Open customer_behavior_sql_queries.sql
 
-4.Connect the SQL Database to Power BI
-Open customer_behavior_dashboard.pbix
+- Answer Business Questions using SQL Queries
 
-Create interactive dashboard in Power BI
+### 4.Connect the SQL Database to Power BI
 
-5.Create Project Report and Presentation
-Create project report
+- Open customer_behavior_dashboard.pbix
 
-Build presentation deck using Gamma AI
+- Create interactive dashboard in Power BI
 
-Dashboard
-<img width="1115" height="625" alt="Customer_Behavior_Dashboard" src="https://github.com/user-attachments/assets/177ede66-4901-40e7-8d85-0bca3c8d502d" />
+### 5.Create Project Report and Presentation
+
+- Create project report
+
+- Build presentation deck using Gamma AI
+   
+## Dashboard
+
+<img width="1362" height="737" alt="Screenshot 2026-07-25 122705" src="https://github.com/user-attachments/assets/31eaf0cf-4f76-423a-8603-c9dfed72ccbc" />
+
